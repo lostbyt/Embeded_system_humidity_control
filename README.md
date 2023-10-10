@@ -2,9 +2,9 @@
 
 **Developer:** Emmanuel Moulun<br>
 **Project type:** Student project<br>
-**Demo:** https://vimeo.com/858283846](https://www.tinkercad.com/things/kGRFB8gZKBh?sharecode=yOR_8oL2bx_vJ1KffzxQbN-uIS7YKyPal8njOvRnI1A
+**Demo:** https://www.tinkercad.com/things/kGRFB8gZKBh?sharecode=yOR_8oL2bx_vJ1KffzxQbN-uIS7YKyPal8njOvRnI1A
 
-![Image](https://github.com/lostbyt/Tool_development_AutoBeauty/blob/main/capture01.PNG)
+![Image](https://github.com/lostbyt/Embeded_system_humidity_control/blob/main/system.PNG)
 
 ### Description:
 This project aims to enhance the quality of life for VFX artists in their daily tasks.
