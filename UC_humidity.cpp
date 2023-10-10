@@ -1,5 +1,5 @@
 //=====================================//
-//      Random byte generator
+//      
 //        byte receiver
 // 
 //emmanuel Moulun
